@@ -1,2 +1,2 @@
 # ATMCaseStudy
-This a learning project with OOP, done by the help of [Java How To Program, Ninth Edition, Deitel &amp; Deitel](https://drive.google.com/file/d/1CrO0IEq6Kb2CtlpgI61j6qoEc9iHemWj/view?usp=sharing) book.
+This assignment is based on the basic of OOP. The Java book by Deitel (9th edition) has assisted us in order to understand and implement the given assignment.
